@@ -1,6 +1,11 @@
 Ristretto
 =========
 
+Presentation
+------------
+
+Based on Cappuccino (http://www.cappuccino-project.org/) which is like Cocoa for the Web, Ristretto would be Cocoa Touch's counterpart. It allows to use Objective-J to create high-speed desktop & mobile web-apps using an abstract renderer interfacing Canvas and SVG rendering engine.
+
 Structure
 ---------
 
