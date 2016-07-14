@@ -1,0 +1,11 @@
+{
+   "engines" : {
+      "node" : "*"
+   },
+   "version" : "0.1.0",
+   "name" : "Cappuccino-Ristretto",
+   "author" : "GateMedia",
+   "description" : "GateMedia Ristretto framework",
+   "devDependencies" : {},
+   "preferGlobal" : true
+}

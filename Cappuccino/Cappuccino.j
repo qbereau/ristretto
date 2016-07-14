@@ -1,0 +1,7 @@
+@import "CPColor.j"
+@import "CPCompatibility.j"
+@import "CPGeometry.j"
+@import "CPResponder.j"
+@import "CPText.j"
+@import "CPFont.j"
+@import "CPStringDrawing.j"
